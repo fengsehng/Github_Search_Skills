@@ -54,6 +54,5 @@ android fork:true
 ```
 android location:beijing
 ```
-## 效果图如下： ##
-![这里写图片描述](http://img.blog.csdn.net/20160324104535924)
+
 
